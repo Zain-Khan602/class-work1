@@ -8,3 +8,6 @@ let students = {
 
 }
 console.log(students.dateofbirth)
+console.log(students.dateofbirth)
+console.log(students.dateofbirth)
+console.log(students.dateofbirth)
